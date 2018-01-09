@@ -15,8 +15,11 @@ Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" 
 2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
 
 MATERYAL VE YÖNTEM
+
 Deneyin Adı:Balloon Airhorn
+
 Deneyin Amacı:Oluşturulan düzeneğin çıkardığı sesi gözlemleyip daha sonraki deneylerde düzeneğin çıkardığı sesi etkileyen parametreleri araştırmaktır.
+
 Malzemeler:
 1.PVC boru
 2.Pet şişe
@@ -28,5 +31,6 @@ Malzemeler:
 
 Deneyin Yapılışı:
 Deney için kullanacağımız şişenin altını kestik.Şişemizin altını daha sağlam hale getirmek için altına kestiğimiz karton bardağı koyduk.Alttaki boşluğa uygun olarak kestiğimiz balonu şişenin altına geçirdik.Geçirdiğimiz balonun sabit durmasını sağlamak için kenarlarını bantla sağlamlaştırdık.Şişemizin kapağını PVC borumuza uygun olacak şekilde deldik.PVC boruyu kapaktan geçirerek şişeye yerleştirdik.PVC boru balona temas etmelidir.Hava girişini engellemek için PVC borunun kapağa temas ettiği yerlere silikon sürdük.Hava üfleyebilmek için şişemizin ortasına delik açtık.
+
 Deneyin Sonucu:
 Kesikten şişeye hava üflediğimizde tiz bir boru sesi çıktığını gözlemledik.
